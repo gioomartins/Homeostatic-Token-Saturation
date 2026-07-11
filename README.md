@@ -29,17 +29,9 @@ homeostatic-token-saturation/
 
 │
 
-├── notebook/
+├── Homeostatic_Token_Saturation.ipynb
 
-│   └── Homeostatic_Token_Saturation.ipynb
-
-│
-
-├── paper/
-
-│   └── paper.pdf
-
-│
+├── paper.pdf
 
 ├── requirements.txt
 

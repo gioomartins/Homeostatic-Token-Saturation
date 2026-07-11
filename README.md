@@ -52,6 +52,12 @@ Experiments were performed using:
 - HuggingFace Transformer - GPT2LMHeadModel
 - Tiny Shakespeare dataset
 
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 Model configuration:
 
 | Parameter | Value |

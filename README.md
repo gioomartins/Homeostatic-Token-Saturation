@@ -29,17 +29,19 @@ homeostatic-token-saturation/
 
 │
 
+├── .gitignore
+
 ├── Homeostatic_Token_Saturation.ipynb
-
-├── paper.pdf
-
-├── requirements.txt
 
 ├── LICENSE
 
 ├── README.md
 
-└── .gitignore
+├── apresentacao_paper.pdf
+
+├── paper.pdf
+
+└── requirements.txt
 
 ---
 
